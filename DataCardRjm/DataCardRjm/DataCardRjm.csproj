@@ -61,7 +61,6 @@
     </Compile>
     <Compile Include="PrintTicketXml.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Teste\TesteName.cs" />
     <Compile Include="Util.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
